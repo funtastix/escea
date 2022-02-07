@@ -1,3 +1,4 @@
+# pylint: skip-file
 """Platform for the Escea fireplace."""
 
 from homeassistant import config_entries

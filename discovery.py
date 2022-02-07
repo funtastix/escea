@@ -1,3 +1,4 @@
+# pylint: skip-file
 """Internal discovery service for  Escea Fireplace."""
 from pescea import Controller, Listener, discovery_service
 

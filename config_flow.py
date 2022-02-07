@@ -1,3 +1,4 @@
+# pylint: skip-file
 """Config flow for escea."""
 
 import asyncio

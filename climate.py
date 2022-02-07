@@ -1,3 +1,4 @@
+# pylint: skip-file
 """Support for the Escea Fireplace."""
 from __future__ import annotations
 
